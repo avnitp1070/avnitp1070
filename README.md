@@ -1,5 +1,4 @@
 - 👋 Hey, I’m Avnit Prakash !
-- Let me introduce myself...
 - Currently pursuing my B.Tech in Electronics and Communication Engineering at NIT Patna
 - 👀 I’m interested in solftware development & Competitive Programming.
 - 🌱 I’m currently improving my coding & problem solving skills.
